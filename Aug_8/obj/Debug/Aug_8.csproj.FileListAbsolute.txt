@@ -13,3 +13,4 @@ C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.Form3.resource
 C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.Form4.resources
 C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.Form5.resources
 C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.Form6.resources
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.Form7.resources

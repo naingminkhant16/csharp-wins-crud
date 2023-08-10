@@ -44,5 +44,17 @@ namespace Aug_8
             F6.Show();
             this.Hide();
         }
+
+        private void searchToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form7 F7 = new Form7();
+            F7.Show();
+            this.Hide();
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.Application.Exit();
+        }
     }
 }
