@@ -1,0 +1,15 @@
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\bin\Debug\Aug_8.exe.config
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\bin\Debug\Aug_8.exe
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\bin\Debug\Aug_8.pdb
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.csproj.AssemblyReference.cache
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.Form1.resources
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.Properties.Resources.resources
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.csproj.GenerateResource.cache
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.csproj.CoreCompileInputs.cache
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.exe
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.pdb
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.Form2.resources
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.Form3.resources
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.Form4.resources
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.Form5.resources
+C:\Users\Naing Min Khant\source\repos\Aug_8\Aug_8\obj\Debug\Aug_8.Form6.resources
